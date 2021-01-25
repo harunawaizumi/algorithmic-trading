@@ -3,8 +3,9 @@
 ## Material 
 this is the tutorial of [Algorithmic Trading Using Python - Full Course](https://www.youtube.com/watch?v=xfzGZB4HhEE&t=1503s) to learn trading algorithm in Python.
 
+
 ## Contents
-1. Building An Equal-Weight S&P 500 Index Fund (0:17:20)
+### 1. Building An Equal-Weight S&P 500 Index Fund (0:17:20)
   - user input portfolio size
   - import stock list from csv file
   - get stock price
@@ -13,7 +14,8 @@ this is the tutorial of [Algorithmic Trading Using Python - Full Course](https:/
   - format these data
   - output these values in excel
 
-2. Building A Quantitative Momentum Investing Strategy (1:38:44)
+
+### 2. Building A Quantitative Momentum Investing Strategy (1:38:44)
   - user input portfolio size
   - import stock list from csv file
   - get Number of Shares to Buy
@@ -26,7 +28,8 @@ this is the tutorial of [Algorithmic Trading Using Python - Full Course](https:/
   - sort by HQM Score to get only top 50 stocks data
   - output these values in excel
 
-3. Building A Quantitative Value Investing Strategy (2:54:02)
+
+### 3. Building A Quantitative Value Investing Strategy (2:54:02)
   - user input portfolio size
   - import stock list from csv file
   - get Number of Shares to Buy
@@ -45,6 +48,7 @@ this is the tutorial of [Algorithmic Trading Using Python - Full Course](https:/
   - format these data
   - sort by RV Score to get only top 50 stocks data
   - output these values in excel
+
 
 ## Constituents
 * numpy
