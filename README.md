@@ -13,7 +13,7 @@ this is the tutorial of [Algorithmic Trading Using Python - Full Course](https:/
   - get Number of Shares to Buy
   - format these data
   - output these values in excel
-![tutorial1](https://github.com/harunawaizumi/algorithmic-trading/blob/main/tutorial1.png =250x)
+![tutorial1](https://github.com/harunawaizumi/algorithmic-trading/blob/main/tutorial1.png){:width="300"}
 
 ### 2. Building A Quantitative Momentum Investing Strategy (1:38:44)
   - user input portfolio size
