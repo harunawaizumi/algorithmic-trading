@@ -13,8 +13,7 @@ this is the tutorial of [Algorithmic Trading Using Python - Full Course](https:/
   - get Number of Shares to Buy
   - format these data
   - output these values in excel
-![tutorial1](){:width="300"}
-<img src="https://github.com/harunawaizumi/algorithmic-trading/blob/main/tutorial1.png" width="400">
+<img src="https://github.com/harunawaizumi/algorithmic-trading/blob/main/tutorial1.png" width="800">
 
 ### 2. Building A Quantitative Momentum Investing Strategy (1:38:44)
   - user input portfolio size
@@ -28,7 +27,7 @@ this is the tutorial of [Algorithmic Trading Using Python - Full Course](https:/
   - format these data
   - sort by HQM Score to get only top 50 stocks data
   - output these values in excel
-
+<img src="https://github.com/harunawaizumi/algorithmic-trading/blob/main/tutorial2.png" width="800">
 
 ### 3. Building A Quantitative Value Investing Strategy (2:54:02)
   - user input portfolio size
@@ -49,7 +48,7 @@ this is the tutorial of [Algorithmic Trading Using Python - Full Course](https:/
   - format these data
   - sort by RV Score to get only top 50 stocks data
   - output these values in excel
-  
+ <img src="https://github.com/harunawaizumi/algorithmic-trading/blob/main/tutorial3.png" width="800">
 
 
 ## Constituents
